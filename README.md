@@ -1,8 +1,4 @@
 # Cafeteria-Menu-Display
-![Logo](mockup.png)
-
-
-#  Free Menu App
 
 ## 💭 Synopsis
 
