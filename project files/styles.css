@@ -1,0 +1,125 @@
+/*steps 18-19, 22*/
+body {
+  /*background-color:limegreen;*/
+  background-image:url("pies.png");
+  /*steps 57, 59*/
+  font-family: Geneva;
+
+  /*step 72*/
+  padding: 50 50 50 50;
+
+}
+
+/*step 60*/
+.founded {
+  font-style:oblique;
+}
+
+/*steps 14*/
+h1, h2, h3, p {
+  text-align: center;
+}
+
+h1 {
+  /*step 62*/
+  font-size:60px;
+}
+h2 {
+  /*step 62*/
+  font-size:40px;
+}
+h3 {
+  /*step 62*/
+  font-size:20px;
+}
+
+hr {
+  /*step 67-70*/
+  height: 1px;
+  /*step 68*/
+  background: orange;
+  /*step 69*/
+  border-color: orange;
+}
+
+
+/*step 58, 59*/
+h1, h2, h3 {
+  font-family: Gill Sans,Tahoma;
+}
+
+/*steps 21, 23*/
+.menu {
+  width:70%;
+  /*steps 56*/
+  max-width: 700px;
+  background-color:orangered;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left:40px;
+  padding-right:40px;
+  /*steps 53-55*/
+  padding: 20 20 20 20;
+}
+
+/*steps 33*/
+.first, .second, .third{
+text-align:left;
+
+/*steps 38, 45*/
+width:80%;
+}
+
+/*steps 34*/
+.cost {
+  text-align:right;
+  
+/*steps 38, 45*/
+width:20%;
+}
+
+.product p {
+  display:inline-block;
+  margin-top:13px;
+  margin-bottom:13px;
+  font-size: 30px;
+}
+
+/*step 75*/
+.bottom-line {
+  margin-top:25px;
+}
+
+/* FOOTER*/
+
+/*step 78*/
+footer {
+  font-size : 14px;
+}
+
+/*step 79*/
+a {
+  color : black ;
+}
+
+/*step 80*/
+a:visited {
+  color : grey; 
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: white;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  margin-top:-20px;
+}
